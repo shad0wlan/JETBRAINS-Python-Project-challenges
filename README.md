@@ -1,1 +1,1 @@
-# JETBRAINS-Python-Project-challenges
+# JETBRAINS Python Project challenges
